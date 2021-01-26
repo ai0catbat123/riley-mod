@@ -1,0 +1,23 @@
+﻿###########################
+# SCS News Events
+###########################
+
+add_namespace = scs_victory
+
+# SCS Victory
+news_event = {
+	id = scs_victory.1
+	title  = "Comunists Victorious!"
+	desc = scs_victory.1.d
+	picture = GFX_news_event_006
+	 
+	major = yes
+
+	is_triggered_only = yes
+
+	option = {
+		name = "Here come the comies"
+	}
+	
+  }
+        

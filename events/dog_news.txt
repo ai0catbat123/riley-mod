@@ -1,0 +1,29 @@
+﻿###########################
+# SCS News Events
+###########################
+
+add_namespace = dog_victory
+
+# SCS Victory
+news_event = {
+	id = dog_victory.1
+	title  = "Dogs Victorious!"
+	desc = dog_victory.1.d
+	picture = GFX_news_event_051
+
+	major = yes
+
+    fire_for_sender = yes
+
+	fire_only_once = yes
+
+	trigger = {
+	 NOT = { country_exists = SCS }
+	}
+
+	option = {
+		name = "Woof!"
+	}
+	
+  }
+        

@@ -1,0 +1,28 @@
+﻿###########################
+# SCS News Events
+###########################
+
+add_namespace = ass_scs
+
+# SCS Victory
+country_event = {
+	id = ass_scs.1
+	title = "A report from the west..."
+	desc = ass_scs.1.d 
+	picture = GFX_report_event_scs
+
+	is_triggered_only = yes
+
+	fire_only_once = yes
+
+	
+
+
+	
+
+	option = {
+		name = "I always hated commies"
+		ai_chance - { factor - 100 }
+	}
+
+}
