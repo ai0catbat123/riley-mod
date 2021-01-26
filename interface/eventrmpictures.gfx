@@ -1,0 +1,18 @@
+spriteTypes = {
+	
+	spriteType = {
+		name = "GFX_report_event_crash"
+		texturefile = "gfx/event_pictures/report_event_crash.dds"
+	}
+
+	spriteType = {
+		name = "GFX_report_event_dog"
+		texturefile = "gfx/event_pictures/report_event_dog.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_report_event_scs"
+		texturefile = "gfx/event_pictures/report_event_scs.dds"
+	}
+
+}

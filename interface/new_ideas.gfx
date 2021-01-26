@@ -1,0 +1,36 @@
+spriteTypes = {	
+
+    spriteType = {
+		name = "GFX_idea_scs_mario"
+		texturefile = "gfx/interface/ideas/scs_mario.dds"
+	}
+
+
+	spriteType = {
+		name = "GFX_idea_dog_loyalist_executed"
+		texturefile = "gfx/interface/ideas/idea_prc_the_long_march2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_idea_usa_great_depression_2"
+		texturefile = "gfx/interface/ideas/idea_usa_great_depression_2.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_use_dogs"
+		texturefile = "gfx/interface/ideas/SCS_use_dogs.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_off_with_their_heads"
+		texturefile = "gfx/interface/ideas/SCS_off_with_their_heads.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_rebel_scum"
+		texturefile = "gfx/interface/ideas/SCS_rebel_scum.dds"
+	}
+	spriteType = {
+		name = "GFX_idea_down_comie"
+		texturefile = "gfx/interface/ideas/DOG_down_with_the_comies.dds"
+	}
+}
